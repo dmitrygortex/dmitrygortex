@@ -9,13 +9,12 @@ I'm a computer science student passionate about coding and exploring the world o
 - 💡 Interested in Android Development, Backend, and PM
 
 ## Projects
-- [my.futuresite](https://google.com)
 - Maybe later once I graduated
 - ...
 
 ## Text me
 
-If you're interested in creating some interesting project with me, then write me an email. I crave teamwork btw)
+If you're interested in creating some interesting project with me, then write me an email.
 
 <!--
 **dmitrygortex/dmitrygortex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
