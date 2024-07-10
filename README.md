@@ -5,8 +5,8 @@ I'm a computer science student passionate about coding and exploring the world o
 ## About Me
 
 - 📚 Studying Computer Science
-- 🌱 Currently learning Java and Kotlin
-- 💡 Interested in Android Development, Backend, and PM
+- 🌱 Currently learning Java
+- 💡 Interested in Backend and Product Managment
 
 ## Projects
 - Maybe later once I graduated
