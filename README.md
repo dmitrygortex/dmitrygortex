@@ -5,8 +5,9 @@ I'm a computer science student passionate about coding and exploring the world o
 ## About Me
 
 - 📚 Studying Computer Science
-- 🌱 Currently learning Java
+- 🌱 Currently learning Java & C# & 3D
 - 💡 Interested in Backend and Product Managment
+- 🤔 I’m looking for help with employment
 
 ## Projects
 - Maybe later once I graduated
